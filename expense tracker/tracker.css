@@ -1,0 +1,88 @@
+.body
+{
+    font-family: "Comfortaa", sans-serif;
+    background-color: rgb(200, 230, 239);
+
+}
+.header
+{
+    background-color: rgb(38, 41, 227);
+    color: white;
+    padding-left: 35px;
+    font-size:x-large;
+    display: flex;
+}
+.input-form
+{
+    display: flex;
+    border: 1px solid black;
+    justify-content: space-around;
+    width: 95%;
+    margin: auto;
+    border-radius: 8px;
+    box-shadow: 0px 0px 4px rgb(38, 41, 227);
+    margin-top: 10px;
+    padding:10px 0px  ;
+}
+#add-button
+{
+    background:rgb(38, 41, 227) ;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size:18px;
+    font-weight: 400;
+    color: white;
+}
+.inputs
+{
+    width: 30%;
+
+}
+.cards
+{
+    
+    display: flex;
+    width: 95%;
+    margin: auto;
+    justify-content: space-between;
+}
+.cards{
+    background:rgb(239, 239, 243) ;
+    border: 0px;
+    color: white;
+    height: 150px;;
+}
+.cardbody
+{
+    color: white;
+
+}
+.Transaction-table
+{
+    border: 1px solid black;
+    width: 95%;
+    margin: auto;
+    font-weight: 600;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.header-row
+{
+    background:rgb(38, 41, 227) ;
+    border: 1px solid black;
+}
+.header-row th
+{
+    padding: 15px 0px;
+    color: white;
+    
+}
+.delete-button
+{
+    background: red;
+    color: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
