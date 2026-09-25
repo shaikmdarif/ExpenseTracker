@@ -1,0 +1,35 @@
+🚀 Excited to share my latest project – Expense Tracker Web App! 💻💰
+
+I built a responsive web application using HTML, CSS, JavaScript & Bootstrap to track income, expenses, and remaining balance in real-time.
+This project helped me:
+
+Enhance my DOM manipulation & event handling skills
+
+Gain experience in responsive UI design
+
+Build confidence in front-end development
+
+"Why this project?"
+Managing personal finances isn’t always easy. I wanted to create a simple, interactive tool to track expenses effectively💰📊. 
+
+🛠️ Tech Used:
+
+HTML – Structure
+
+CSS & Bootstrap – Styling & Responsiveness
+
+JavaScript – Interactivity & Logic💡
+
+✨ Highlights:
+
+Add/Delete transactions dynamically
+
+Real-time balance calculations
+
+📚 What I Gained:
+
+Strengthened DOM manipulation skills
+Practiced problem-solving through coding
+
+"Excited to build more!" 🚀
+Let’s connect & collaborate on amazing projects!
